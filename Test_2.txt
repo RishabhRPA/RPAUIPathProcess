@@ -1,0 +1,1 @@
+INVOICE{}# 13759{}Jun 2019 Sit Amet Corp.{}Sit Amet Corp.{}1938 Amet Avenue{}Lake Cowichan{}USA{}Bill To:{}ACME Inc.{}5171 Dui, Street{}Denver, Colorac%){}USA{}Item{}Item 1{}Item 2 Date:{}Balance Due:{}Ouantity{}5 Subtotal:{}Tax (20%):{}Total: Rate{}$ 2200{}$700 $ 879.60{}Amount{}$11000{}$62300{}$ 733 m{}$146.60{}$879.60
